@@ -83,6 +83,7 @@ customer_id,name,email,purchase_amount
 89,John Benson,john.benson@yahoo.com,707.61
 90,Lori Hernandez,lori.hernandez@gmail.com,582.85
 91,Samantha Pittman,samantha.pittman@gmail.com,257.67
+92,Gary Hendrix,gary.hendrix@yahoo.com,371.15
 93,Christine White,christine.white@gmail.com,105.04
 94,William Black,william.black@yahoo.com,542.6
 96,Jonathan Jones,jonathan.jones@gmail.com,219.95
@@ -152,6 +153,7 @@ customer_id,name,email,purchase_amount
 169,Lori Martinez,lori.martinez@hotmail.com,828.48
 170,Jeffrey Romero,jeffrey.romero@hotmail.com,165.11
 171,Pam Johnson,pam.johnson@yahoo.com,772.94
+172,Jennifer White,jennifer.white@hotmail.com,403.83
 173,Kelly Lee,kelly.lee@gmail.com,580.39
 174,Christine Leonard,christine.leonard@gmail.com,340.68
 175,Colton Gross,colton.gross@hotmail.com,459.44
@@ -165,6 +167,7 @@ customer_id,name,email,purchase_amount
 187,Michael Dickerson,michael.dickerson@yahoo.com,912.08
 188,Erica Martin,erica.martin@yahoo.com,573.78
 189,Anthony Robinson,anthony.robinson@hotmail.com,329.4
+190,Samuel Williams,samuel.williams@hotmail.com,32.72
 192,Christopher Luna,christopher.luna@hotmail.com,727.38
 193,Robert Meza,robert.meza@hotmail.com,891.7
 194,Brenda Keith,brenda.keith@hotmail.com,511.62
@@ -203,6 +206,7 @@ customer_id,name,email,purchase_amount
 229,Kevin Graham,kevin.graham@yahoo.com,528.27
 230,Melody Bonilla,melody.bonilla@yahoo.com,714.57
 231,Jennifer Smith,jennifer.smith@gmail.com,262.4
+232,Patty Walker,patty.walker@hotmail.com,204.63
 233,Maria Henderson,maria.henderson@yahoo.com,572.97
 234,Melanie Mays,melanie.mays@hotmail.com,387.95
 235,Clifford Flowers,clifford.flowers@yahoo.com,805.68
@@ -223,6 +227,7 @@ customer_id,name,email,purchase_amount
 255,Ruben Farrell DDS,ruben.farrell@gmail.com,422.97
 256,Susan Daniels,susan.daniels@hotmail.com,395.56
 257,Lisa Armstrong,lisa.armstrong@gmail.com,73.72
+258,Tiffany Thomas,tiffany.thomas@yahoo.com,66.62
 259,Shane Norton,shane.norton@yahoo.com,819.5
 260,Jaime Brown,jaime.brown@hotmail.com,724.0
 264,Mary Thompson,mary.thompson@yahoo.com,ABC123
@@ -281,6 +286,7 @@ customer_id,name,email,purchase_amount
 322,Virginia Green,virginia.green@gmail.com,575.92
 323,Andre Tapia,andre.tapia@yahoo.com,675.36
 324,Tammy Sanders,tammy.sanders@gmail.com,820.29
+325,Jennifer Rodriguez,jennifer.rodriguez@gmail.com,552.82
 326,Jody Alexander,jody.alexander@gmail.com,219.85
 327,Robert Price,robert.price@hotmail.com,997.33
 328,James Rangel,james.rangel@gmail.com,284.05
@@ -417,6 +423,7 @@ customer_id,name,email,purchase_amount
 470,Jacqueline Davis,jacqueline.davis@yahoo.com,217.64
 471,Russell Webster,russell.webster@hotmail.com,313.9
 473,Andrea Campbell,andrea.campbell@yahoo.com,938.04
+474,Heather Thompson,heather.thompson@gmail.com,337.78
 475,Dr. Erin Walker DDS,dr..erin@hotmail.com,255.38
 476,Mackenzie King,mackenzie.king@gmail.com,663.37
 477,Anthony Cervantes,anthony.cervantes@yahoo.com,357.04
@@ -490,6 +497,7 @@ customer_id,name,email,purchase_amount
 551,Todd Mays,todd.mays@hotmail.com,255.34
 552,Victoria Peterson,victoria.peterson@gmail.com,187.14
 553,Kristin Smith,kristin.smith@hotmail.com,798.29
+554,Gary Mitchell,gary.mitchell@hotmail.com,227.14
 555,Kyle Lewis,kyle.lewis@gmail.com,363.26
 556,Jessica Russell,jessica.russell@gmail.com,720.41
 557,Jonathan Ruiz,jonathan.ruiz@hotmail.com,390.3
@@ -540,6 +548,7 @@ customer_id,name,email,purchase_amount
 610,Samantha Shaffer,samantha.shaffer@gmail.com,70.34
 611,Heather Perez,heather.perez@gmail.com,99.71
 612,Jackie Mason,jackie.mason@yahoo.com,315.53
+614,Lisa Ramirez,lisa.ramirez@yahoo.com,61.41
 615,Nicholas Vega,nicholas.vega@gmail.com,663.93
 616,James Hart,james.hart@hotmail.com,49.32
 617,Todd Pena,todd.pena@hotmail.com,265.13
@@ -608,6 +617,7 @@ customer_id,name,email,purchase_amount
 684,Christopher Maldonado,christopher.maldonado@hotmail.com,696.57
 685,Daniel Phillips,daniel.phillips@yahoo.com,396.72
 686,Kathryn Thompson,kathryn.thompson@yahoo.com,417.05
+687,Timothy Flores,timothy.flores@hotmail.com,946.62
 689,Julia Woods,julia.woods@gmail.com,38.44
 691,Kevin Cooper,kevin.cooper@gmail.com,674.01
 692,Jennifer Blake,jennifer.blake@gmail.com,927.97
@@ -656,6 +666,7 @@ customer_id,name,email,purchase_amount
 739,Kendra Nelson,kendra.nelson@hotmail.com,913.22
 740,Dalton Chavez,dalton.chavez@gmail.com,228.25
 741,Glen Shaw,glen.shaw@gmail.com,81.02
+742,Jessica Reed,jessica.reed@gmail.com,511.62
 743,Scott Rangel,scott.rangel@hotmail.com,931.18
 744,Henry Melton,henry.melton@hotmail.com,896.56
 745,Fred Eaton,fred.eaton@yahoo.com,413.1
@@ -712,6 +723,7 @@ customer_id,name,email,purchase_amount
 804,Michael,michael.cervantes@gmail.com,164.51
 805,Sarah Cooper,sarah.cooper@gmail.com,903.5
 806,Martin Roberts,martin.roberts@yahoo.com,213.14
+807,Olivia Garcia,olivia.garcia@hotmail.com,628.0
 808,Kristine Miller,kristine.miller@hotmail.com,596.23
 809,Tracie Sullivan MD,tracie.sullivan@gmail.com,943.26
 810,Edward Parker,edward.parker@yahoo.com,506.91
@@ -751,6 +763,8 @@ customer_id,name,email,purchase_amount
 850,Ashley Patterson,ashley.patterson@hotmail.com,995.27
 852,Raymond Moore,raymond.moore@hotmail.com,258.67
 853,Amy Sanchez,amy.sanchez@hotmail.com,446.52
+854,Edward Harper,edward.harper@hotmail.com,70.77
+855,Clifford Parker,clifford.parker@gmail.com,308.58
 856,Bridget Evans,bridget.evans@yahoo.com,916.04
 857,Megan Ward MD,megan.ward@gmail.com,785.12
 858,Scott Gonzalez,scott.gonzalez@hotmail.com,379.71
@@ -759,6 +773,7 @@ customer_id,name,email,purchase_amount
 862,Paul Carlson,paul.carlson@yahoo.com,447.84
 863,Matthew Wright,matthew.wright@yahoo.com,703.2
 864,Peter Hanson,peter.hanson@gmail.com,660.91
+865,Brandon Jarvis,brandon.jarvis@yahoo.com,89.93
 866,Anthony Martin,anthony.martin@hotmail.com,310.78
 867,Daniel Mcconnell,daniel.mcconnell@yahoo.com,216.92
 868,Andrew Flowers,andrew.flowers@gmail.com,881.57
@@ -812,10 +827,12 @@ customer_id,name,email,purchase_amount
 923,Robert Garcia,robert.garcia@yahoo.com,623.19
 924,Lisa Porter,lisa.porter@hotmail.com,820.27
 925,Jamie Sloan,jamie.sloan@hotmail.com,815.76
+926,Emily Ryan,emily.ryan@hotmail.com,586.17
 927,Frederick Trujillo,frederick.trujillo@hotmail.com,549.05
 928,Gerald Lyons,gerald.lyons@hotmail.com,769.34
 929,Dawn Brown,dawn.brown@yahoo.com,503.77
 930,Patrick Sawyer,patrick.sawyer@hotmail.com,161.6
+931,Ernest Crane,ernest.crane@hotmail.com,351.24
 932,Katherine Wilson,katherine.wilson@gmail.com,243.64
 933,Anne Brown,anne.brown@hotmail.com,788.06
 934,Lisa Luna,lisa.luna@yahoo.com,37.48
@@ -879,6 +896,7 @@ customer_id,name,email,purchase_amount
 999,Samuel Mason,samuel.mason@gmail.com,381.4
 1000,Joseph Petty,joseph.petty@hotmail.com,370.75
 1001,Matthew Sandoval,matthew.sandoval@yahoo.com,285.95
+1002,Tamara Hartman,tamara.hartman@hotmail.com,903.19
 1003,Julia Harris,julia.harris@yahoo.com,170.63
 1004,Ashley Duncan,ashley.duncan@hotmail.com,570.11
 1005,Michael Ali,michael.ali@yahoo.com,720.54
@@ -942,6 +960,7 @@ customer_id,name,email,purchase_amount
 1068,Matthew Ramos,matthew.ramos@gmail.com,208.32
 1069,Jessica Cruz,jessica.cruz@gmail.com,943.81
 1070,Michael Paul,michael.paul@yahoo.com,155.39
+1071,Ashley Owens,ashley.owens@hotmail.com,954.88
 1072,Gregory Crawford,gregory.crawford@hotmail.com,478.71
 1073,James Johnson,james.johnson@hotmail.com,383.27
 1074,Darren Davis,darren.davis@hotmail.com,887.96
@@ -1128,6 +1147,7 @@ customer_id,name,email,purchase_amount
 1275,Donald Saunders,donald.saunders@gmail.com,499.63
 1276,Tonya Blackwell,tonya.blackwell@gmail.com,523.16
 1277,Mrs. Tina Webb MD,mrs..tina@hotmail.com,47.09
+1278,Natasha Howard,natasha.howard@gmail.com,769.26
 1279,Jacqueline Jimenez,jacqueline.jimenez@yahoo.com,176.830
 1280,Lisa Robertson,lisa.robertson@hotmail.com,819.72
 1281,Michael Hall,michael.hall@yahoo.com,672.53
@@ -1152,6 +1172,7 @@ customer_id,name,email,purchase_amount
 1303,Sierra Austin,sierra.austin@hotmail.com,443.73
 1304,Ashley Cruz,ashley.cruz@hotmail.com,949.61
 1305,Madison Simpson,madison.simpson@yahoo.com,178.82
+1306,Zachary Thompson,zachary.thompson@gmail.com,727.89
 1308,Bryan Grant,bryan.grant@hotmail.com,477.34
 1309,Justin Jones,justin.jones@hotmail.com,392.31
 1310,alexander davies,alexander.davies@hotmail.com,513.86
@@ -1195,6 +1216,7 @@ customer_id,name,email,purchase_amount
 1350,Johnathan Hamilton,johnathan.hamilton@yahoo.com,811.12
 1351,Cynthia Blackwell,cynthia.blackwell@hotmail.com,540.68
 1352,Joshua Jones,joshua.jones@yahoo.com,929.94
+1354,Kevin Webb,kevin.webb@gmail.com,125.73
 1355,Jane Ward,jane.ward@yahoo.com,371.89
 1356,Eric Hunt,eric.hunt@gmail.com,805.99
 1357,Maria Flores,maria.flores@hotmail.com,465.45
@@ -1258,6 +1280,7 @@ customer_id,name,email,purchase_amount
 1418,Michael Smith,michael.smith@hotmail.com,949.77
 1419,Candice Smith,candice.smith@yahoo.com,851.33
 1420,Yolanda Scott,yolanda.scott@hotmail.com,521.52
+1421,Kristin Johnston,kristin.johnston@hotmail.com,882.21
 1422,amanda frazier,amanda.frazier@gmail.com,653.49
 1423,Donna Patel,donna.patel@yahoo.com,185.05
 1424,Mr. John Gregory,mr..john@yahoo.com,340.43
@@ -1318,6 +1341,7 @@ customer_id,name,email,purchase_amount
 1488,James Watkins,james.watkins@yahoo.com,14.98
 1489,Kenneth Murphy,kenneth.murphy@gmail.com,119.62
 1490,Nicole Fleming,nicole.fleming@hotmail.com,938.18
+1491,Timothy Reynolds,timothy.reynolds@hotmail.com,327.56
 1492,Tracy Clark,tracy.clark@gmail.com,479.19
 1493,Anthony Case,anthony.case@yahoo.com,493.81
 1494,Sean Weaver,sean.weaver@hotmail.com,421.55
@@ -1512,6 +1536,7 @@ customer_id,name,email,purchase_amount
 1703,Jason Adams,jason.adams@hotmail.com,782.53
 1704,Dana Gentry,dana.gentry@yahoo.com,950.37
 1705,Amy Horton,amy.horton@gmail.com,ABC123
+1706,Timothy Wallace,timothy.wallace@yahoo.com,906.9
 1707,Jose Gomez,jose.gomez@yahoo.com,446.48
 1708,Joseph Murray,joseph.murray@hotmail.com,78.4
 1710,Spencer Jordan,spencer.jordan@gmail.com,570.13
@@ -1570,6 +1595,7 @@ customer_id,name,email,purchase_amount
 1768,Alicia Logan,alicia.logan@yahoo.com,361.19
 1770,Scott Gordon,scott.gordon@yahoo.com,647.56
 1771,Vincent Allen,vincent.allen@yahoo.com,296.83
+1772,Benjamin Martin,benjamin.martin@gmail.com,209.83
 1773,Jessica Gomez,jessica.gomez@gmail.com,525.42
 1774,Megan Ortega,megan.ortega@hotmail.com,135.13
 1775,Kevin Castro,kevin.castro@yahoo.com,237.81
@@ -1583,6 +1609,7 @@ customer_id,name,email,purchase_amount
 1786,Monica Howell,monica.howell@yahoo.com,286.19
 1787,Shannon Norman,shannon.norman@yahoo.com,772.93
 1788,John Wall,john.wall@yahoo.com,265.61
+1789,Charles Mccarthy,charles.mccarthy@yahoo.com,565.64
 1790,Lucas Davis,lucas.davis@yahoo.com,614.41
 1791,Erica Moss,erica.moss@gmail.com,733.13
 1792,Michael Hampton,michael.hampton@hotmail.com,104.94
@@ -1679,6 +1706,7 @@ customer_id,name,email,purchase_amount
 1890,John Smith,john.smith@hotmail.com,489.69
 1891,Joan Simpson,joan.simpson@gmail.com,57.35
 1892,Monica Greene,monica.greene@gmail.com,347.99
+1893,Geoffrey Leonard MD,geoffrey.leonard@gmail.com,677.86
 1894,Troy Beck,troy.beck@yahoo.com,191.98
 1896,Brandon Kim,brandon.kim@gmail.com,770.17
 1897,Justin Robinson,justin.robinson@hotmail.com,18.83
@@ -1980,6 +2008,7 @@ customer_id,name,email,purchase_amount
 2238,Danielle Foster,danielle.foster@gmail.com,780.02
 2239,Cynthia Soto,cynthia.soto@gmail.com,276.5
 2240,Ronald Norris,ronald.norris@gmail.com,673.09
+2241,Tammy Chavez,tammy.chavez@hotmail.com,920.54
 2242,Leslie Dunn,leslie.dunn@yahoo.com,405.86
 2243,Travis Hill,travis.hill@hotmail.com,140.29
 2244,Patrick Garcia,patrick.garcia@hotmail.com,465.82
@@ -2006,6 +2035,7 @@ customer_id,name,email,purchase_amount
 2268,Jody Moore,jody.moore@gmail.com,733.52
 2269,Alvin Cox,alvin.cox@gmail.com,454.47
 2270,Shawna Baker,shawna.baker@gmail.com,30.22
+2271,Daniel Hart,daniel.hart@gmail.com,300.01
 2272,Andrea Luna,andrea.luna@hotmail.com,26.73
 2273,Jason Williams,jason.williams@gmail.com,588.75
 2274,Mark Reeves,mark.reeves@yahoo.com,987.62
@@ -2024,8 +2054,10 @@ customer_id,name,email,purchase_amount
 2288,Jonathan Sanchez,jonathan.sanchez@hotmail.com,197.9
 2290,Jack Berry,jack.berry@hotmail.com,127.44
 2291,Emily Rivera,emily.rivera@hotmail.com,198.0
+2292,Joshua Brown,joshua.brown@hotmail.com,365.5
 2294,Stephen Thompson,stephen.thompson@gmail.com,267.61
 2295,Angela Porter,angela.porter@hotmail.com,713.6
+2296,Meredith Peters,meredith.peters@hotmail.com,52.85
 2297,Tara Lopez,tara.lopez@gmail.com,872.54
 2300,Regina Fuentes,regina.fuentes@yahoo.com,58.99
 2301,Gary Mcclain,gary.mcclain@gmail.com,974.81
@@ -2182,6 +2214,7 @@ customer_id,name,email,purchase_amount
 2464,Cynthia Hernandez,cynthia.hernandez@hotmail.com,317.91
 2465,John Atkins,john.atkins@hotmail.com,866.8
 2466,Jennifer Steele,jennifer.steele@hotmail.com,539.82
+2467,Casey Matthews,casey.matthews@yahoo.com,622.58
 2468,Brian Briggs,brian.briggs@yahoo.com,803.58
 2469,Tara Williams,tara.williams@yahoo.com,668.84
 2470,Nathan Hart,nathan.hart@gmail.com,679.59
@@ -2256,6 +2289,7 @@ customer_id,name,email,purchase_amount
 2542,jeffery gordon,jeffery.gordon@gmail.com,976.76
 2543,Maxwell Matthews,maxwell.matthews@gmail.com,201.53
 2544,Andrew Hull,andrew.hull@gmail.com,826.6
+2545,Bryan Ruiz,bryan.ruiz@hotmail.com,130.51
 2546,Zachary Gray,zachary.gray@gmail.com,65.22
 2547,Mr. Greg Rivera,mr..greg@yahoo.com,722.28
 2548,Cindy Mitchell,cindy.mitchell@gmail.com,136.61
@@ -2329,7 +2363,9 @@ customer_id,name,email,purchase_amount
 2622,Melissa Spears,melissa.spears@gmail.com,337.59
 2623,Erin Ibarra,erin.ibarra@yahoo.com,666.11
 2624,Rebecca Frederick,rebecca.frederick@hotmail.com,502.51
+2625,Lance Walker,lance.walker@hotmail.com,768.150
 2626,Julie Hays,julie.hays@yahoo.com,55.19
+2627,Jason Grant,jason.grant@yahoo.com,244.55
 2628,Ryan Norton,ryan.norton@yahoo.com,771.67
 2629,Amanda Thomas,amanda.thomas@yahoo.com,499.96
 2630,James Harris,james.harris@hotmail.com,303.17
@@ -2445,6 +2481,7 @@ customer_id,name,email,purchase_amount
 2757,David Lyons,david.lyons@gmail.com,235.06
 2758,Derek Lester,derek.lester@hotmail.com,601.82
 2759,Mario James,mario.james@hotmail.com,196.68
+2761,Theresa Moreno,theresa.moreno@hotmail.com,313.87
 2762,Amber Dudley,amber.dudley@yahoo.com,713.06
 2763,Ms. Kelly Ramos,ms..kelly@gmail.com,881.43
 2764,Michelle Miles,michelle.miles@hotmail.com,388.77
@@ -2623,6 +2660,7 @@ customer_id,name,email,purchase_amount
 2958,Susan Chan,susan.chan@gmail.com,609.73
 2959,Alyssa Peters,alyssa.peters@hotmail.com,572.4
 2960,Robert Morgan,robert.morgan@gmail.com,190.43
+2961,Kelly Oconnell,kelly.oconnell@yahoo.com,49.29
 2962,Stephen Carter,stephen.carter@yahoo.com,435.47
 2963,Allison Kane,allison.kane@gmail.com,521.69
 2964,Angela Howard,angela.howard@hotmail.com,332.23
@@ -2897,6 +2935,7 @@ customer_id,name,email,purchase_amount
 3251,alexandra wilson,alexandra.wilson@hotmail.com,985.48
 3252,John Miller,john.miller@hotmail.com,384.41
 3253,Megan Moreno,megan.moreno@yahoo.com,920.11
+3254,Jack Martin,jack.martin@hotmail.com,286.03
 3255,David Wade,david.wade@gmail.com,18.73
 3257,Joshua Nunez,joshua.nunez@hotmail.com,38.66
 3258,Dr. Shirley Brown DDS,dr..shirley@hotmail.com,765.75
@@ -2990,6 +3029,7 @@ customer_id,name,email,purchase_amount
 3358,Nancy Carr,nancy.carr@hotmail.com,613.26
 3360,Erica Levine,erica.levine@gmail.com,986.85
 3361,Victor Bright,victor.bright@gmail.com,964.16
+3362,Richard Norris,richard.norris@gmail.com,259.34
 3363,Stephen Galloway,stephen.galloway@gmail.com,815.82
 3364,Ana Anderson,ana.anderson@yahoo.com,510.68
 3365,James Reed,james.reed@yahoo.com,919.78
@@ -3034,6 +3074,7 @@ customer_id,name,email,purchase_amount
 3409,Renee Frank,renee.frank@yahoo.com,816.08
 3410,Jose Clark,jose.clark@hotmail.com,897.0
 3411,Tammy Fisher,tammy.fisher@yahoo.com,802.1
+3413,Sandra Williams,sandra.williams@gmail.com,976.06
 3414,Michael Smith Jr.,michael.smith@yahoo.com,676.51
 3415,David Stone,david.stone@yahoo.com,105.38
 3416,Katie Shaw,katie.shaw@gmail.com,434.94
@@ -3451,10 +3492,12 @@ customer_id,name,email,purchase_amount
 3872,Donald Hernandez,donald.hernandez@yahoo.com,702.18
 3873,Ms. Sheila Hogan MD,ms..sheila@gmail.com,219.6
 3874,Mark Martin,mark.martin@gmail.com,106.12
+3875,Thomas Johnson,thomas.johnson@yahoo.com,672.63
 3876,Christian Thompson,christian.thompson@gmail.com,35.14
 3877,John Mora,john.mora@yahoo.com,641.9
 3878,Scott Nichols,scott.nichols@hotmail.com,254.52
 3879,Rebecca Parsons,rebecca.parsons@hotmail.com,98.28
+3880,Stacy Jennings,stacy.jennings@yahoo.com,567.54
 3881,Angela Cole,angela.cole@yahoo.com,806.37
 3882,Jesus Smith II,jesus.smith@gmail.com,920.87
 3884,Mary Daniel,mary.daniel@hotmail.com,868.47
@@ -3623,6 +3666,7 @@ customer_id,name,email,purchase_amount
 4065,Joshua Buckley,joshua.buckley@gmail.com,79.1
 4066,Teresa Martinez,teresa.martinez@yahoo.com,793.95
 4067,Lauren Benson,lauren.benson@hotmail.com,510.55
+4069,Justin Holland,justin.holland@gmail.com,698.54
 4070,Patrick Lopez,patrick.lopez@hotmail.com,579.98
 4072,Nicholas Alexander,nicholas.alexander@hotmail.com,567.36
 4073,Anthony Hernandez,anthony.hernandez@hotmail.com,541.43
@@ -3647,6 +3691,7 @@ customer_id,name,email,purchase_amount
 4095,Natalie Riley,natalie.riley@hotmail.com,217.68
 4096,Gabriel Wang,gabriel.wang@gmail.com,672.13
 4097,Lisa Hudson,lisa.hudson@yahoo.com,597.91
+4098,Heather Estes,heather.estes@yahoo.com,860.74
 4099,Elizabeth Chambers,elizabeth.chambers@gmail.com,170.93
 4100,Stephanie Perez,stephanie.perez@gmail.com,166.49
 4101,Jeffrey Cox,jeffrey.cox@yahoo.com,589.18
@@ -3780,6 +3825,7 @@ customer_id,name,email,purchase_amount
 4250,sharon nguyen,sharon.nguyen@gmail.com,740.78
 4251,Harold Robinson,harold.robinson@gmail.com,657.38
 4252,Suzanne Phillips MD,suzanne.phillips@yahoo.com,430.44
+4253,Kayla Dunlap,kayla.dunlap@hotmail.com,822.21
 4254,Susan Duarte,susan.duarte@gmail.com,996.01
 4255,Anna Thomas,anna.thomas@gmail.com,237.29
 4256,Brandon Cantrell,brandon.cantrell@gmail.com,477.1
@@ -3821,6 +3867,7 @@ customer_id,name,email,purchase_amount
 4296,Robert Boyd,robert.boyd@yahoo.com,331.76
 4297,Robert Smith,robert.smith@gmail.com,365.19
 4298,Mary Bowers,mary.bowers@hotmail.com,613.93
+4299,Stacey Douglas,stacey.douglas@yahoo.com,79.51
 4300,Rodney Hernandez,rodney.hernandez@yahoo.com,259.68
 4301,William Stewart,william.stewart@yahoo.com,560.7
 4303,Kevin Marquez,kevin.marquez@hotmail.com,476.97
@@ -3888,6 +3935,7 @@ customer_id,name,email,purchase_amount
 4375,Kyle Costa,kyle.costa@hotmail.com,255.45
 4376,Vincent Cisneros,vincent.cisneros@hotmail.com,173.68
 4377,Michael Jones,michael.jones@gmail.com,958.55
+4378,Shawn Hansen II,shawn.hansen@yahoo.com,770.1
 4379,Michael Morrison,michael.morrison@yahoo.com,760.76
 4380,Michelle Carroll,michelle.carroll@gmail.com,752.5
 4381,Jeffery Howard,jeffery.howard@gmail.com,205.48
@@ -3997,6 +4045,7 @@ customer_id,name,email,purchase_amount
 4492,Rhonda Jackson,rhonda.jackson@yahoo.com,334.38
 4493,Angel Harris,angel.harris@gmail.com,142.77
 4495,Nicholas Ellis,nicholas.ellis@yahoo.com,732.7
+4496,Dr. Madison Norris,dr..madison@hotmail.com,332.04
 4497,Peter Gonzalez,peter.gonzalez@hotmail.com,406.95
 4499,Diana Acosta,diana.acosta@gmail.com,546.68
 4500,Edward Miller,edward.miller@gmail.com,487.89
@@ -4110,6 +4159,7 @@ customer_id,name,email,purchase_amount
 4618,Nicole Davis,nicole.davis@yahoo.com,960.14
 4619,Lori Torres,lori.torres@gmail.com,254.94
 4620,Kim Becker,kim.becker@yahoo.com,865.97
+4621,Diana Mccoy,diana.mccoy@gmail.com,324.56
 4622,Amanda Hernandez,amanda.hernandez@yahoo.com,185.32
 4623,Edwin Gutierrez,edwin.gutierrez@gmail.com,303.68
 4624,Loretta Johnson,loretta.johnson@hotmail.com,964.06
@@ -4156,6 +4206,7 @@ customer_id,name,email,purchase_amount
 4672,Juan Herrera,juan.herrera@gmail.com,964.60
 4673,Brittany Soto,brittany.soto@hotmail.com,172.02
 4674,Jennifer Wilson,jennifer.wilson@gmail.com,238.86
+4675,Becky Perez,becky.perez@hotmail.com,493.2
 4676,James Young,james.young@hotmail.com,667.37
 4677,Nicole Freeman,nicole.freeman@yahoo.com,682.0
 4678,jaime long,jaime.long@gmail.com,336.78
@@ -4457,6 +4508,7 @@ customer_id,name,email,purchase_amount
 5011,paula fisher,paula.fisher@yahoo.com,113.5
 5012,Danielle Curry,danielle.curry@yahoo.com,640.69
 5013,Luke Payne,luke.payne@gmail.com,930.23
+5014,Natasha Vincent,natasha.vincent@hotmail.com,942.88
 5015,Amanda Hernandez,amanda.hernandez@hotmail.com,797.36
 5016,Jodi Cooper,jodi.cooper@yahoo.com,339.92
 5017,Thomas Sims,thomas.sims@gmail.com,466.35
@@ -4491,6 +4543,7 @@ customer_id,name,email,purchase_amount
 5049,Ryan Shaw,ryan.shaw@hotmail.com,601.51
 5050,Christy Gaines,christy.gaines@gmail.com,761.17
 5051,David Hayes,david.hayes@gmail.com,215.13
+5052,Kimberly Solis,kimberly.solis@hotmail.com,233.23
 5053,Dennis Hurst,dennis.hurst@yahoo.com,576.06
 5054,Holly Ortiz,holly.ortiz@yahoo.com,740.37
 5055,Jason Estes,jason.estes@gmail.com,594.54
@@ -4696,6 +4749,7 @@ customer_id,name,email,purchase_amount
 5278,Carla Hill,carla.hill@hotmail.com,738.65
 5279,Maria Nunez,maria.nunez@hotmail.com,888.42
 5280,John Lopez,john.lopez@hotmail.com,ABC123
+5281,Emily Wilson MD,emily.wilson@yahoo.com,746.13
 5282,Sarah Wright,sarah.wright@gmail.com,840.26
 5283,Lisa Buckley,lisa.buckley@yahoo.com,325.68
 5284,Alvin Adams,alvin.adams@hotmail.com,984.79
@@ -4905,10 +4959,12 @@ customer_id,name,email,purchase_amount
 5505,Tina Wilson,tina.wilson@hotmail.com,417.14
 5506,Kristina Sandoval,kristina.sandoval@gmail.com,331.89
 5507,Kevin Gallagher,kevin.gallagher@yahoo.com,ABC123
+5508,Luis Higgins,luis.higgins@yahoo.com,633.31
 5509,Jessica Hoffman,jessica.hoffman@gmail.com,26.18
 5510,Louis Casey,louis.casey@hotmail.com,194.95
 5511,Christina Webb,christina.webb@yahoo.com,72.65
 5512,Donna Allen,donna.allen@yahoo.com,89.78
+5513,Jennifer Smith,jennifer.smith@gmail.com,732.28
 5514,Joshua Huffman,joshua.huffman@hotmail.com,326.74
 5515,Scott Arnold,scott.arnold@gmail.com,166.46
 5516,Samantha Hurley,samantha.hurley@gmail.com,853.94
@@ -5030,6 +5086,7 @@ customer_id,name,email,purchase_amount
 5646,Erin Sandoval,erin.sandoval@hotmail.com,408.45
 5647,Sheila Carlson,sheila.carlson@hotmail.com,859.2
 5648,Michael Carney,michael.carney@gmail.com,666.42
+5649,Christine Mccullough,christine.mccullough@gmail.com,405.67
 5650,Daniel Bradford,daniel.bradford@hotmail.com,587.96
 5651,Autumn Ross,autumn.ross@yahoo.com,722.04
 5652,Margaret Beasley,margaret.beasley@hotmail.com,505.44
@@ -5050,6 +5107,7 @@ customer_id,name,email,purchase_amount
 5667,William Davis,william.davis@hotmail.com,666.03
 5668,Denise Jackson,denise.jackson@hotmail.com,763.08
 5669,Katherine Walter,katherine.walter@hotmail.com,335.94
+5670,Melissa Blair,melissa.blair@hotmail.com,939.48
 5671,Natasha Rodriguez,natasha.rodriguez@yahoo.com,610.0
 5672,Steven Sexton,steven.sexton@hotmail.com,846.76
 5673,Ann,ann.wood@yahoo.com,267.93
@@ -5133,11 +5191,14 @@ customer_id,name,email,purchase_amount
 5762,Amanda Cordova,amanda.cordova@hotmail.com,832.55
 5763,Joshua Wise,joshua.wise@gmail.com,805.53
 5764,Mariah Roberts,mariah.roberts@hotmail.com,499.04
+5765,Allison Alexander,allison.alexander@yahoo.com,273.99
 5766,Cody Lee,cody.lee@gmail.com,586.68
 5768,Peter Sanchez,peter.sanchez@hotmail.com,819.79
 5769,Robert Kelly,robert.kelly@hotmail.com,784.87
 5770,William Rasmussen,william.rasmussen@gmail.com,217.9
+5771,Eric Hardy,eric.hardy@yahoo.com,193.33
 5772,Dr. Stephanie Jones MD,dr..stephanie@hotmail.com,696.51
+5773,Ana Bowers,ana.bowers@hotmail.com,664.26
 5774,Shari Garcia,shari.garcia@yahoo.com,ABC123
 5775,Anthony Thornton,anthony.thornton@hotmail.com,516.81
 5776,Sarah,sarah.cardenas@gmail.com,191.54
@@ -5251,6 +5312,7 @@ customer_id,name,email,purchase_amount
 5908,Brian Rojas,brian.rojas@hotmail.com,23.75
 5909,William Clark,william.clark@yahoo.com,798.4
 5910,Andrea Harmon,andrea.harmon@yahoo.com,460.7
+5911,April Williams,april.williams@gmail.com,856.93
 5913,Autumn Martinez,autumn.martinez@hotmail.com,201.06
 5914,Laura Ward,laura.ward@gmail.com,876.54
 5915,Rebecca Reyes,rebecca.reyes@yahoo.com,957.33
@@ -5415,6 +5477,7 @@ customer_id,name,email,purchase_amount
 6088,Michael Olson,michael.olson@yahoo.com,ABC123
 6089,Susan Small,susan.small@yahoo.com,730.55
 6090,Gary Odonnell,gary.odonnell@hotmail.com,799.92
+6091,Brian Rowland,brian.rowland@hotmail.com,692.87
 6092,Jermaine Alexander,jermaine.alexander@gmail.com,206.64
 6093,Trevor Kennedy,trevor.kennedy@gmail.com,821.63
 6094,David Lowe,david.lowe@hotmail.com,591.96
@@ -5508,6 +5571,7 @@ customer_id,name,email,purchase_amount
 6191,Michael Gillespie,michael.gillespie@yahoo.com,235.16
 6192,Matthew Reyes,matthew.reyes@yahoo.com,819.18
 6193,William Lucas,william.lucas@gmail.com,85.03
+6194,Jill Smith,jill.smith@hotmail.com,774.56
 6195,Michael Donaldson,michael.donaldson@yahoo.com,627.57
 6196,Tyler Payne,tyler.payne@hotmail.com,953.15
 6197,Heidi Lee DVM,heidi.lee@yahoo.com,936.69
@@ -5565,6 +5629,7 @@ customer_id,name,email,purchase_amount
 6250,Joseph Watson,joseph.watson@gmail.com,228.5
 6251,Robert,robert.richards@yahoo.com,341.72
 6252,Rachel Norman,rachel.norman@hotmail.com,306.67
+6253,Angela Wall,angela.wall@yahoo.com,501.66
 6254,Brenda Walsh,brenda.walsh@hotmail.com,113.38
 6255,Natasha Huber,natasha.huber@yahoo.com,28.99
 6256,Matthew Brown,matthew.brown@gmail.com,939.2
@@ -5590,6 +5655,7 @@ customer_id,name,email,purchase_amount
 6277,lawrence walker,lawrence.walker@gmail.com,990.48
 6278,Amy Bernard,amy.bernard@hotmail.com,207.84
 6279,Robin Newton,robin.newton@hotmail.com,564.31
+6280,Joshua Campos,joshua.campos@gmail.com,441.51
 6281,Carolyn Nichols,carolyn.nichols@hotmail.com,25.66
 6282,Lauren Griffin,lauren.griffin@hotmail.com,53.46
 6283,Chad Johnson,chad.johnson@yahoo.com,668.09
@@ -5660,6 +5726,7 @@ customer_id,name,email,purchase_amount
 6349,Joshua Mckee,joshua.mckee@yahoo.com,986.79
 6350,Melissa Jackson,melissa.jackson@yahoo.com,562.4
 6351,Tiffany Barrett,tiffany.barrett@hotmail.com,39.85
+6353,Katherine Atkins,katherine.atkins@gmail.com,860.4
 6355,Jennifer Schultz,jennifer.schultz@yahoo.com,814.8
 6356,Stephanie Smith,stephanie.smith@hotmail.com,779.79
 6357,Sara Jones,sara.jones@hotmail.com,889.93
@@ -5674,12 +5741,14 @@ customer_id,name,email,purchase_amount
 6367,Rachel Thompson,rachel.thompson@gmail.com,174.41
 6368,Danielle Palmer,danielle.palmer@yahoo.com,23.99
 6369,Barbara Johnson,barbara.johnson@gmail.com,561.24
+6370,Kara Scott,kara.scott@hotmail.com,43.96
 6371,Isaac Watson,isaac.watson@yahoo.com,208.48
 6372,Kirsten Harris DVM,kirsten.harris@yahoo.com,504.44
 6373,Deanna Kennedy,deanna.kennedy@gmail.com,732.83
 6375,Michelle Hart,michelle.hart@gmail.com,292.0
 6376,Veronica Bennett,veronica.bennett@gmail.com,842.77
 6377,Cynthia Cannon,cynthia.cannon@gmail.com,906.48
+6378,George Green,george.green@hotmail.com,820.37
 6380,Katherine Thompson,katherine.thompson@gmail.com,592.62
 6381,Timothy Cardenas,timothy.cardenas@gmail.com,943.54
 6382,Thomas Jordan,thomas.jordan@gmail.com,58.08
@@ -5725,6 +5794,7 @@ customer_id,name,email,purchase_amount
 6424,Michael Castaneda,michael.castaneda@yahoo.com,810.84
 6425,Lori Rush,lori.rush@yahoo.com,893.13
 6426,Bonnie Jenkins,bonnie.jenkins@hotmail.com,919.98
+6427,Jason Moore,jason.moore@gmail.com,326.58
 6428,Ashley Contreras,ashley.contreras@gmail.com,449.65
 6429,Alan Adams,alan.adams@hotmail.com,537.49
 6430,Patrick Smith,patrick.smith@hotmail.com,794.91
@@ -5755,6 +5825,7 @@ customer_id,name,email,purchase_amount
 6460,Robert Travis,robert.travis@gmail.com,809.83
 6461,Darren Evans,darren.evans@hotmail.com,60.97
 6462,Brent Miller,brent.miller@hotmail.com,655.5
+6463,Kurt Norris,kurt.norris@hotmail.com,874.41
 6464,Frederick Pham,frederick.pham@yahoo.com,170.98
 6465,Karen Contreras,karen.contreras@yahoo.com,672.21
 6466,Robin Lambert,robin.lambert@gmail.com,485.59
@@ -5791,6 +5862,7 @@ customer_id,name,email,purchase_amount
 6498,Theresa Vasquez,theresa.vasquez@gmail.com,507.26
 6499,Jeffery Russell,jeffery.russell@gmail.com,124.92
 6500,David Taylor,david.taylor@hotmail.com,837.37
+6501,Melissa Smith,melissa.smith@gmail.com,866.770
 6503,David Torres,david.torres@yahoo.com,348.46
 6504,Mark Ballard,mark.ballard@gmail.com,273.62
 6505,Amy Warner,amy.warner@gmail.com,290.57
@@ -5842,6 +5914,7 @@ customer_id,name,email,purchase_amount
 6561,Victor Roberts,victor.roberts@yahoo.com,446.18
 6562,Anthony Best,anthony.best@yahoo.com,259.06
 6563,Nichole Robinson,nichole.robinson@yahoo.com,391.02
+6564,Michael Charles,michael.charles@yahoo.com,971.78
 6565,Kelly Ochoa,kelly.ochoa@hotmail.com,469.390
 6566,Douglas Johnson,douglas.johnson@gmail.com,910.98
 6567,Jake Alvarado,jake.alvarado@yahoo.com,862.27
@@ -5988,6 +6061,7 @@ customer_id,name,email,purchase_amount
 6719,Rachel Vasquez,rachel.vasquez@gmail.com,154.59
 6720,Amanda Taylor,amanda.taylor@hotmail.com,159.87
 6721,Anthony Gonzalez,anthony.gonzalez@hotmail.com,470.78
+6722,James Howard,james.howard@gmail.com,351.32
 6723,Cameron Lowery,cameron.lowery@hotmail.com,816.96
 6724,Cynthia Mitchell,cynthia.mitchell@hotmail.com,752.56
 6725,Leonard Garcia,leonard.garcia@hotmail.com,165.15
@@ -6050,6 +6124,7 @@ customer_id,name,email,purchase_amount
 6789,Jon Horton,jon.horton@gmail.com,934.09
 6790,Jennifer Manning,jennifer.manning@hotmail.com,912.6
 6791,Aaron Dennis,aaron.dennis@yahoo.com,952.79
+6792,Hunter Murphy,hunter.murphy@yahoo.com,692.98
 6793,Stacey Ramirez,stacey.ramirez@gmail.com,405.77
 6794,Christopher Smith,christopher.smith@gmail.com,769.57
 6795,Anna Brown,anna.brown@gmail.com,860.36
@@ -6101,6 +6176,7 @@ customer_id,name,email,purchase_amount
 6845,Miss Rebecca Green,miss.rebecca@yahoo.com,322.72
 6847,david carter,david.carter@gmail.com,693.68
 6848,Laura Lewis,laura.lewis@gmail.com,138.31
+6849,Angela Daniel,angela.daniel@hotmail.com,323.61
 6850,Erin Arnold,erin.arnold@gmail.com,480.55
 6852,Dana Gallegos,dana.gallegos@gmail.com,531.580
 6853,Paul Powell,paul.powell@gmail.com,393.79
@@ -6146,6 +6222,7 @@ customer_id,name,email,purchase_amount
 6896,Jamie Pena,jamie.pena@gmail.com,253.83
 6897,Anthony Davenport,anthony.davenport@gmail.com,440.34
 6898,Jordan Hood,jordan.hood@gmail.com,649.67
+6899,Lisa Thompson,lisa.thompson@gmail.com,568.44
 6902,Michelle Hart,michelle.hart@hotmail.com,692.290
 6903,Nicholas Romero,nicholas.romero@yahoo.com,728.46
 6905,Jason Davis,jason.davis@gmail.com,162.0
@@ -6189,7 +6266,9 @@ customer_id,name,email,purchase_amount
 6950,Timothy Dixon,timothy.dixon@gmail.com,895.08
 6951,Melissa Meyer,melissa.meyer@yahoo.com,860.32
 6952,Vanessa Jenkins,vanessa.jenkins@yahoo.com,649.62
+6953,Dr. Joshua Jones,dr..joshua@yahoo.com,461.09
 6954,Joshua Garcia,joshua.garcia@hotmail.com,919.05
+6955,Jacob Wilson,jacob.wilson@gmail.com,965.53
 6956,Jeremy Barrera,jeremy.barrera@yahoo.com,54.34
 6957,James Green MD,james.green@hotmail.com,984.9
 6958,Heather Boyd,heather.boyd@yahoo.com,554.68
@@ -6283,6 +6362,7 @@ customer_id,name,email,purchase_amount
 7051,Diana Dominguez,diana.dominguez@gmail.com,786.1
 7052,James Barrett,james.barrett@gmail.com,862.85
 7054,Blake Williams,blake.williams@yahoo.com,181.81
+7055,Diana Ibarra,diana.ibarra@hotmail.com,802.42
 7056,Nicole Schmidt,nicole.schmidt@yahoo.com,571.5
 7058,Jason Robinson,jason.robinson@gmail.com,150.91
 7059,Michael Mitchell,michael.mitchell@yahoo.com,211.23
@@ -6313,6 +6393,7 @@ customer_id,name,email,purchase_amount
 7087,Janet Jones,janet.jones@yahoo.com,152.14
 7088,Robert Hawkins,robert.hawkins@gmail.com,270.68
 7089,Sabrina Hampton DDS,sabrina.hampton@hotmail.com,711.98
+7090,Denise Cross,denise.cross@gmail.com,868.26
 7091,Teresa Davis DDS,teresa.davis@hotmail.com,828.22
 7092,Caleb Martinez,caleb.martinez@yahoo.com,162.95
 7093,Pamela Odonnell,pamela.odonnell@hotmail.com,677.75
@@ -6374,6 +6455,7 @@ customer_id,name,email,purchase_amount
 7154,Zachary Rodriguez,zachary.rodriguez@yahoo.com,834.45
 7155,Vanessa Hanna,vanessa.hanna@gmail.com,945.63
 7156,Brenda Fitzpatrick,brenda.fitzpatrick@hotmail.com,778.79
+7157,Fernando Melton,fernando.melton@hotmail.com,914.65
 7158,David Watkins,david.watkins@yahoo.com,670.27
 7159,Bobby Hurley,bobby.hurley@yahoo.com,287.72
 7160,Sonya Cruz,sonya.cruz@yahoo.com,68.44
@@ -6405,6 +6487,7 @@ customer_id,name,email,purchase_amount
 7190,Loretta Leach,loretta.leach@hotmail.com,774.35
 7191,Tiffany Barnes,tiffany.barnes@gmail.com,250.17
 7192,Mark Sanchez,mark.sanchez@yahoo.com,620.19
+7193,Ronald Grant,ronald.grant@hotmail.com,571.37
 7194,Michael Ellis,michael.ellis@hotmail.com,49.24
 7195,Lisa Rodriguez,lisa.rodriguez@hotmail.com,916.19
 7196,Hannah Thompson,hannah.thompson@gmail.com,256.13
@@ -6459,6 +6542,7 @@ customer_id,name,email,purchase_amount
 7253,Miss Sarah Wilson,miss.sarah@hotmail.com,859.04
 7254,Sarah Roberts,sarah.roberts@gmail.com,495.88
 7255,Kelly Wilson,kelly.wilson@gmail.com,102.1
+7256,Gregory Murray,gregory.murray@gmail.com,366.48
 7257,Margaret Reed,margaret.reed@hotmail.com,727.26
 7258,Robert Stein,robert.stein@hotmail.com,326.29
 7260,Dr. Anna Morris,dr..anna@gmail.com,523.11
@@ -6471,6 +6555,7 @@ customer_id,name,email,purchase_amount
 7267,Charles Ryan,charles.ryan@hotmail.com,806.57
 7268,Lauren Mcdonald,lauren.mcdonald@yahoo.com,79.64
 7269,Scott Moore,scott.moore@hotmail.com,416.75
+7270,Cynthia Griffin,cynthia.griffin@yahoo.com,165.86
 7271,Leah Gibson,leah.gibson@yahoo.com,905.5
 7272,Stacy Mendoza,stacy.mendoza@yahoo.com,61.92
 7273,Sean Williams,sean.williams@gmail.com,484.25
@@ -6568,6 +6653,7 @@ customer_id,name,email,purchase_amount
 7376,Stephanie Wood,stephanie.wood@yahoo.com,984.08
 7377,Kaitlyn Martinez,kaitlyn.martinez@gmail.com,903.06
 7378,Wayne Pena,wayne.pena@yahoo.com,398.31
+7379,Michael Vance,michael.vance@yahoo.com,941.42
 7380,Kimberly Banks,kimberly.banks@hotmail.com,355.83
 7381,Jennifer Peters,jennifer.peters@yahoo.com,135.21
 7382,Christy Phelps,christy.phelps@hotmail.com,720.19
@@ -6851,9 +6937,11 @@ customer_id,name,email,purchase_amount
 7690,Kenneth Hamilton,kenneth.hamilton@yahoo.com,356.78
 7691,Lauren Harris,lauren.harris@hotmail.com,997.34
 7692,Steve Curry,steve.curry@yahoo.com,844.65
+7693,Jonathan Wright,jonathan.wright@yahoo.com,883.14
 7694,Joshua Robertson,joshua.robertson@hotmail.com,921.48
 7695,Christy Perez,christy.perez@yahoo.com,290.92
 7696,Chelsey Williams,chelsey.williams@gmail.com,831.49
+7697,John Jones,john.jones@gmail.com,473.44
 7698,Jared Sanchez,jared.sanchez@hotmail.com,906.39
 7699,Ryan Fox,ryan.fox@hotmail.com,572.32
 7701,Olivia Long,olivia.long@yahoo.com,371.56
@@ -6976,12 +7064,15 @@ customer_id,name,email,purchase_amount
 7825,joyce collins,joyce.collins@hotmail.com,857.21
 7826,Kyle Hanna,kyle.hanna@hotmail.com,577.69
 7827,James Poole,james.poole@hotmail.com,611.04
+7828,Matthew Bryant,matthew.bryant@hotmail.com,654.9
 7829,Stephanie Gibson,stephanie.gibson@yahoo.com,600.85
 7830,Alexis Brooks,alexis.brooks@gmail.com,502.58
+7831,Daniel Graham,daniel.graham@yahoo.com,75.31
 7832,Richard Cook,richard.cook@yahoo.com,858.81
 7833,Courtney Adkins,courtney.adkins@gmail.com,554.39
 7834,Dominique Black,dominique.black@yahoo.com,65.15
 7835,Valerie Rogers,valerie.rogers@gmail.com,576.21
+7836,Kelsey Medina,kelsey.medina@hotmail.com,428.32
 7837,Nathaniel Duncan,nathaniel.duncan@gmail.com,501.87
 7838,Jane Wilson,jane.wilson@hotmail.com,647.43
 7839,Nicole Adams,nicole.adams@hotmail.com,546.52
@@ -7043,6 +7134,7 @@ customer_id,name,email,purchase_amount
 7904,Amy Snyder,amy.snyder@yahoo.com,195.6
 7905,Noah Terrell,noah.terrell@yahoo.com,856.49
 7906,Cynthia Bailey,cynthia.bailey@hotmail.com,840.82
+7907,Tanya Gonzalez,tanya.gonzalez@hotmail.com,964.22
 7908,Kimberly Potter,kimberly.potter@hotmail.com,370.67
 7909,Megan Scott,megan.scott@gmail.com,549.58
 7910,Travis Peterson,travis.peterson@hotmail.com,236.75
@@ -7161,6 +7253,7 @@ customer_id,name,email,purchase_amount
 8031,Michael Brennan,michael.brennan@yahoo.com,439.92
 8032,Timothy Watts,timothy.watts@yahoo.com,850.03
 8033,Maurice Matthews,maurice.matthews@hotmail.com,251.64
+8035,James Herman,james.herman@yahoo.com,902.91
 8036,Brad Allen,brad.allen@yahoo.com,763.92
 8037,Lisa Richardson MD,lisa.richardson@yahoo.com,624.7
 8038,Thomas Mcfarland DDS,thomas.mcfarland@hotmail.com,499.38
@@ -7255,6 +7348,7 @@ customer_id,name,email,purchase_amount
 8135,Daniel Franklin,daniel.franklin@yahoo.com,581.93
 8136,Teresa Hernandez,teresa.hernandez@hotmail.com,700.39
 8137,Grant Glenn,grant.glenn@gmail.com,476.25
+8138,Howard Kent,howard.kent@yahoo.com,908.9
 8139,Eric Wells,eric.wells@yahoo.com,428.83
 8140,Tracy Johnson,tracy.johnson@gmail.com,899.52
 8141,Jacob Curtis,jacob.curtis@hotmail.com,811.24
@@ -7337,6 +7431,7 @@ customer_id,name,email,purchase_amount
 8226,Tracy Briggs,tracy.briggs@hotmail.com,169.97
 8227,Allison Young,allison.young@hotmail.com,173.71
 8228,April Evans DDS,april.evans@yahoo.com,573.45
+8229,Kimberly Jennings MD,kimberly.jennings@yahoo.com,220.29
 8230,Rachel Lewis,rachel.lewis@gmail.com,899.73
 8231,Debra Snow,debra.snow@yahoo.com,830.87
 8232,Benjamin Riggs,benjamin.riggs@gmail.com,368.69
@@ -7422,6 +7517,7 @@ customer_id,name,email,purchase_amount
 8323,Lisa Riggs,lisa.riggs@yahoo.com,75.36
 8324,Mark Evans,mark.evans@gmail.com,874.19
 8325,Bruce Pena,bruce.pena@yahoo.com,972.64
+8326,Luis Lopez,luis.lopez@yahoo.com,101.34
 8328,Jennifer Bird DDS,jennifer.bird@gmail.com,105.96
 8329,Daniel Mitchell,daniel.mitchell@gmail.com,887.66
 8330,Justin Richardson,justin.richardson@yahoo.com,404.3
@@ -7437,6 +7533,7 @@ customer_id,name,email,purchase_amount
 8340,Richard Soto,richard.soto@yahoo.com,402.1
 8341,Shannon Carrillo,shannon.carrillo@yahoo.com,551.51
 8342,Brian Collins,brian.collins@hotmail.com,ABC123
+8343,Melissa Zuniga,melissa.zuniga@yahoo.com,52.09
 8344,Christopher Villa,christopher.villa@gmail.com,350.83
 8345,Katie Kent,katie.kent@gmail.com,161.51
 8346,Cheryl Palmer,cheryl.palmer@yahoo.com,53.81
@@ -7472,6 +7569,7 @@ customer_id,name,email,purchase_amount
 8378,Whitney Price,whitney.price@hotmail.com,27.56
 8379,Chad Alexander,chad.alexander@yahoo.com,718.65
 8380,Samantha Campos,samantha.campos@gmail.com,484.05
+8381,Pamela Nash,pamela.nash@gmail.com,767.31
 8382,Justin Duncan,justin.duncan@hotmail.com,678.53
 8383,Phillip Barajas,phillip.barajas@hotmail.com,94.94
 8384,Alexandria Becker,alexandria.becker@yahoo.com,538.62
@@ -7649,6 +7747,7 @@ customer_id,name,email,purchase_amount
 8576,Jason Reyes,jason.reyes@hotmail.com,86.83
 8577,Steven Mendoza,steven.mendoza@gmail.com,795.18
 8578,Charles Chan,charles.chan@hotmail.com,613.41
+8579,Ryan Kline,ryan.kline@hotmail.com,541.68
 8580,Catherine Wilson,catherine.wilson@gmail.com,405.87
 8581,Lisa Barnes,lisa.barnes@gmail.com,110.23
 8582,Jacob Jones,jacob.jones@gmail.com,678.8
@@ -7724,8 +7823,10 @@ customer_id,name,email,purchase_amount
 8663,Antonio Bailey,antonio.bailey@yahoo.com,25.23
 8664,Renee Mason,renee.mason@gmail.com,110.81
 8665,Heather Allen,heather.allen@gmail.com,487.95
+8666,Nicholas Hardin,nicholas.hardin@hotmail.com,671.35
 8667,Hector Dunn,hector.dunn@gmail.com,559.88
 8669,Brandon Ward,brandon.ward@gmail.com,756.17
+8670,Nicole Oconnor,nicole.oconnor@yahoo.com,420.56
 8671,Erin Walls,erin.walls@yahoo.com,153.9
 8672,Brittany Potter,brittany.potter@gmail.com,481.39
 8673,Jennifer Chapman,jennifer.chapman@hotmail.com,839.29
@@ -7763,6 +7864,7 @@ customer_id,name,email,purchase_amount
 8709,Toni Harding DDS,toni.harding@yahoo.com,702.42
 8710,Danielle Rice,danielle.rice@yahoo.com,683.76
 8711,Nancy Porter,nancy.porter@yahoo.com,569.38
+8712,Christina Moran,christina.moran@gmail.com,341.69
 8713,Michelle Johnson,michelle.johnson@yahoo.com,100.65
 8714,Andrew Kerr,andrew.kerr@hotmail.com,141.25
 8715,Dr. Glenn Powers,dr..glenn@gmail.com,622.71
@@ -7842,6 +7944,7 @@ customer_id,name,email,purchase_amount
 8794,Stephanie Fisher,stephanie.fisher@hotmail.com,349.86
 8795,Jason Guerrero,jason.guerrero@yahoo.com,683.32
 8796,Jessica Lopez,jessica.lopez@yahoo.com,596.46
+8797,Darren Anderson,darren.anderson@hotmail.com,109.62
 8798,Kristin Wall,kristin.wall@yahoo.com,698.89
 8799,Sandy Thomas,sandy.thomas@gmail.com,423.19
 8801,Daniel Andrews,daniel.andrews@gmail.com,199.86
@@ -7898,6 +8001,7 @@ customer_id,name,email,purchase_amount
 8858,Christina Taylor,christina.taylor@yahoo.com,771.23
 8859,Suzanne Willis,suzanne.willis@yahoo.com,888.8
 8860,Billy,billy.bass@yahoo.com,571.32
+8861,Timothy Rodriguez,timothy.rodriguez@hotmail.com,452.69
 8862,Robert Gonzalez,robert.gonzalez@gmail.com,846.56
 8863,Jonathon Callahan DVM,jonathon.callahan@gmail.com,455.34
 8866,Sara Martinez,sara.martinez@gmail.com,592.53
@@ -7935,12 +8039,14 @@ customer_id,name,email,purchase_amount
 8903,Donald Smith,donald.smith@gmail.com,942.3
 8904,Debra Torres,debra.torres@hotmail.com,345.62
 8905,Robin Lucas,robin.lucas@hotmail.com,286.37
+8906,Jennifer Braun,jennifer.braun@yahoo.com,524.81
 8908,Cheryl Reid,cheryl.reid@yahoo.com,686.93
 8909,Michelle Frazier,michelle.frazier@gmail.com,923.01
 8911,Travis Cruz,travis.cruz@gmail.com,339.92
 8912,Hannah Rivas,hannah.rivas@yahoo.com,882.23
 8913,Michelle Gray,michelle.gray@gmail.com,534.3
 8914,Robert Leonard,robert.leonard@hotmail.com,289.22
+8915,Jennifer Simpson,jennifer.simpson@hotmail.com,577.19
 8916,Jenny Levy,jenny.levy@gmail.com,305.52
 8917,Valerie Jones MD,valerie.jones@yahoo.com,736.98
 8918,Jose Murillo,jose.murillo@hotmail.com,451.43
@@ -8018,6 +8124,7 @@ customer_id,name,email,purchase_amount
 9001,Michael Hogan,michael.hogan@gmail.com,706.71
 9002,Ronald,ronald.barrett@gmail.com,145.1
 9003,Joseph Browning,joseph.browning@hotmail.com,78.43
+9004,Amy Stone,amy.stone@gmail.com,208.64
 9005,Christopher Bowman,christopher.bowman@gmail.com,634.42
 9006,Bryan Howard,bryan.howard@yahoo.com,455.88
 9009,Jamie Holmes,jamie.holmes@gmail.com,21.99
@@ -8045,11 +8152,13 @@ customer_id,name,email,purchase_amount
 9034,Lauren Hall,lauren.hall@gmail.com,308.93
 9035,brian smith,brian.smith@gmail.com,737.02
 9036,Karen Salinas,karen.salinas@gmail.com,413.37
+9037,Kelly Ortiz,kelly.ortiz@gmail.com,244.24
 9038,Mark Davidson,mark.davidson@yahoo.com,665.79
 9039,Joanne Mccoy,joanne.mccoy@gmail.com,182.76
 9040,Ethan Hale,ethan.hale@gmail.com,820.22
 9041,John Patterson,john.patterson@hotmail.com,289.07
 9042,Daniel Edwards,daniel.edwards@hotmail.com,927.1
+9043,Michael Mccarthy,michael.mccarthy@yahoo.com,811.31
 9044,Brandy Miller,brandy.miller@hotmail.com,803.6
 9045,Sheila Thompson,sheila.thompson@hotmail.com,516.68
 9046,Daniel Mcgrath,daniel.mcgrath@gmail.com,508.49
@@ -8095,6 +8204,7 @@ customer_id,name,email,purchase_amount
 9090,Zoe Cox,zoe.cox@yahoo.com,58.04
 9091,Michael Sanchez,michael.sanchez@yahoo.com,419.76
 9092,Rhonda Johnson,rhonda.johnson@hotmail.com,568.18
+9093,Susan Leonard,susan.leonard@gmail.com,626.46
 9094,Robert Rangel,robert.rangel@hotmail.com,490.83
 9095,Anthony Jackson,anthony.jackson@yahoo.com,26.37
 9096,Stacey Simpson,stacey.simpson@hotmail.com,884.66
@@ -8159,6 +8269,7 @@ customer_id,name,email,purchase_amount
 9164,Caroline Jones,caroline.jones@hotmail.com,386.0
 9165,Richard Murphy,richard.murphy@hotmail.com,51.92
 9166,Tamara Cooper,tamara.cooper@yahoo.com,522.05
+9167,Amy Hall,amy.hall@hotmail.com,738.83
 9168,Daniel Costa,daniel.costa@gmail.com,934.41
 9169,Tina Green,tina.green@gmail.com,355.74
 9170,Robert Shaw,robert.shaw@hotmail.com,701.22
@@ -8188,6 +8299,7 @@ customer_id,name,email,purchase_amount
 9198,Micheal Manning,micheal.manning@yahoo.com,191.9
 9199,Lawrence Reynolds,lawrence.reynolds@yahoo.com,894.98
 9200,Cory Riggs,cory.riggs@gmail.com,199.02
+9201,Timothy Serrano,timothy.serrano@yahoo.com,386.47
 9202,Dalton Long,dalton.long@yahoo.com,508.56
 9203,Allison Leonard,allison.leonard@yahoo.com,647.55
 9205,Kenneth Phillips,kenneth.phillips@hotmail.com,457.81
@@ -8323,6 +8435,7 @@ customer_id,name,email,purchase_amount
 9354,Jennifer,jennifer.brown@yahoo.com,ABC123
 9355,James Pace,james.pace@hotmail.com,150.7
 9357,Matthew Webb,matthew.webb@hotmail.com,721.1
+9358,Kayla Davis,kayla.davis@hotmail.com,746.14
 9359,Andre Barajas,andre.barajas@yahoo.com,354.390
 9360,Jamie Williams,jamie.williams@hotmail.com,561.1
 9361,Frank Stafford,frank.stafford@hotmail.com,412.56
@@ -8637,6 +8750,7 @@ customer_id,name,email,purchase_amount
 9701,Jeffrey Flynn,jeffrey.flynn@yahoo.com,244.71
 9702,Jesse Anderson,jesse.anderson@gmail.com,562.53
 9704,Emily Stewart,emily.stewart@hotmail.com,816.61
+9705,Kevin Wu,kevin.wu@yahoo.com,143.0
 9706,Gail Stephens,gail.stephens@yahoo.com,417.41
 9707,Timothy Clark,timothy.clark@yahoo.com,566.52
 9708,Christopher Rush,christopher.rush@yahoo.com,509.94
@@ -8778,6 +8892,7 @@ customer_id,name,email,purchase_amount
 9862,Keith Lopez,keith.lopez@yahoo.com,574.34
 9863,George Harris,george.harris@gmail.com,405.44
 9864,Gloria Leon,gloria.leon@gmail.com,926.55
+9865,Connie Peterson,connie.peterson@gmail.com,179.51
 9866,Antonio Cooke,antonio.cooke@gmail.com,710.25
 9867,Brittany Mata,brittany.mata@gmail.com,113.0
 9868,Cody Ramos,cody.ramos@hotmail.com,856.47
@@ -8818,6 +8933,7 @@ customer_id,name,email,purchase_amount
 9904,Gail Williams MD,gail.williams@hotmail.com,397.53
 9905,Alvin Hamilton,alvin.hamilton@hotmail.com,479.96
 9906,Lindsey Williams,lindsey.williams@gmail.com,389.86
+9907,Jon Mckenzie,jon.mckenzie@hotmail.com,270.82
 9908,Cynthia Baker,cynthia.baker@hotmail.com,730.13
 9909,Brett Ramirez,brett.ramirez@gmail.com,453.26
 9910,Kelly Carter,kelly.carter@yahoo.com,271.9
@@ -8831,6 +8947,7 @@ customer_id,name,email,purchase_amount
 9918,Toni Goodman,toni.goodman@hotmail.com,321.26
 9919,Kendra Juarez,kendra.juarez@gmail.com,578.37
 9920,Roy Barker,roy.barker@yahoo.com,760.21
+9921,Amy Martinez,amy.martinez@gmail.com,749.39
 9922,Dr. Erica Snyder,dr..erica@hotmail.com,126.88
 9923,David Hays,david.hays@hotmail.com,596.98
 9925,Justin Gomez,justin.gomez@yahoo.com,196.59
